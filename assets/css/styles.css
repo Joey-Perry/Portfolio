@@ -1,0 +1,21 @@
+.technologies {
+    /* border: 2px solid white; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-container {
+    width: 150px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 10px 40px;
+    /* border: 1px solid white; */
+}
+
+.img-container img {
+    width: 100%;
+}
+
+.ruby img {
+    width: 75%;
+}
